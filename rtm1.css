@@ -1,0 +1,35 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+ text-align: center;
+ margin-right: auto;
+ margin-bottom: 25px;
+}
+h4{
+    text-align: center;
+    margin-right: auto;
+}
+
+.contact-list ul{
+    flex-direction: column;
+    margin-left: auto; 
+    display: flexbox; 
+    
+}
+
+.contact-list ul li{
+    margin: 50px;
+    margin-top: 25px;
+    margin-left: 100px;
+    flex-direction: row;
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
